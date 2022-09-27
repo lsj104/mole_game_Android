@@ -19,9 +19,7 @@
 
 <img width="30%" alt="스크린샷 2022-09-27 오전 12 35 04" src="https://user-images.githubusercontent.com/75536654/192325657-caba31d2-ca52-41d1-91d6-b873306b6682.png">
 
-![화면 기록 2022-09-27 오전 1 07 08](https://user-images.githubusercontent.com/75536654/192326644-873d8e1f-bfd8-415a-af6e-9fb9e85ff9a5.gif)
-
-
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/192326644-873d8e1f-bfd8-415a-af6e-9fb9e85ff9a5.gif"/>
 
 #### END 💣
 - 게임이 종료됐을 때 TIME OVER 메시지와 다시 시작, 종료하기 버튼을 보여주고 맨 밑에는 점수를 보여줌
